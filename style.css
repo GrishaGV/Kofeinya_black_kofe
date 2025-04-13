@@ -1,0 +1,86 @@
+body {
+    background-color: #FFE4B5;
+    font-family: cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+nav {
+    background-color: #D2691E;
+    padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2 {
+    text-align: center;
+}
+
+.kofe {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #D2691E;
+    padding: 15px;
+    justify-content: center;
+}
+
+.kofe img {
+    width: 300px;
+    height: 170px;
+    margin: 15px;
+}
+
+.kofe,.des article p {
+    text-align: center;
+}
+
+.des {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #D2691E;
+    padding: 15px;
+    justify-content: center;
+}
+
+.des img {
+    width: 300px;
+    height: 170px;
+    margin: 15px;
+}
+
+.onas {
+    background-color: #D2691E;
+    padding: 15px;
+}
+
+.iframe {
+    display: flex;
+    justify-content: center;
+}
+
+.otz img {
+    width: 50px;
+    height: 50px;
+}
+
+.otz article {
+    border: 5px#D2691E double;
+    padding: 10px;
+    margin: 10px;
+}
+
+.otz {
+    display: flex;
+    flex-wrap: wrap;
+}
